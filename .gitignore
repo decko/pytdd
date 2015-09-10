@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Rope files 
+.ropeproject
+
+# Example DB File
+db.sqlite3
